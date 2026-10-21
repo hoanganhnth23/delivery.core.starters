@@ -1,7 +1,7 @@
-/Users/a/Documents/private/delivery/backend_delivery/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/CommonKafkaAutoConfigurationTest.java
-/Users/a/Documents/private/delivery/backend_delivery/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/CommonKafkaConsumerConfigTest.java
-/Users/a/Documents/private/delivery/backend_delivery/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/CommonKafkaErrorHandlerTest.java
-/Users/a/Documents/private/delivery/backend_delivery/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/CommonKafkaProducerConfigTest.java
-/Users/a/Documents/private/delivery/backend_delivery/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/OutboxRelayBaseTest.java
-/Users/a/Documents/private/delivery/backend_delivery/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/TestKafkaTemplate.java
-/Users/a/Documents/private/delivery/backend_delivery/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/TopicNamesTest.java
+/Users/a/Documents/private/delivery/delivery.core.starters/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/CommonKafkaAutoConfigurationTest.java
+/Users/a/Documents/private/delivery/delivery.core.starters/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/CommonKafkaConsumerConfigTest.java
+/Users/a/Documents/private/delivery/delivery.core.starters/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/CommonKafkaErrorHandlerTest.java
+/Users/a/Documents/private/delivery/delivery.core.starters/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/CommonKafkaProducerConfigTest.java
+/Users/a/Documents/private/delivery/delivery.core.starters/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/OutboxRelayBaseTest.java
+/Users/a/Documents/private/delivery/delivery.core.starters/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/TestKafkaTemplate.java
+/Users/a/Documents/private/delivery/delivery.core.starters/platform/kafka-starter/src/test/java/com/delivery/platform/kafka/TopicNamesTest.java

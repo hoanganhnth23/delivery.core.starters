@@ -1,6 +1,6 @@
-/Users/a/Documents/private/delivery/backend_delivery/clients/routing-client/src/main/java/com/delivery/routing/client/HttpRoutingClient.java
-/Users/a/Documents/private/delivery/backend_delivery/clients/routing-client/src/main/java/com/delivery/routing/client/RestClientRoutingHttpExchange.java
-/Users/a/Documents/private/delivery/backend_delivery/clients/routing-client/src/main/java/com/delivery/routing/client/RoutingClient.java
-/Users/a/Documents/private/delivery/backend_delivery/clients/routing-client/src/main/java/com/delivery/routing/client/RoutingClientException.java
-/Users/a/Documents/private/delivery/backend_delivery/clients/routing-client/src/main/java/com/delivery/routing/client/RoutingClientFailure.java
-/Users/a/Documents/private/delivery/backend_delivery/clients/routing-client/src/main/java/com/delivery/routing/client/RoutingHttpExchange.java
+/Users/a/Documents/private/delivery/delivery.core.starters/clients/routing-client/src/main/java/com/delivery/routing/client/HttpRoutingClient.java
+/Users/a/Documents/private/delivery/delivery.core.starters/clients/routing-client/src/main/java/com/delivery/routing/client/RestClientRoutingHttpExchange.java
+/Users/a/Documents/private/delivery/delivery.core.starters/clients/routing-client/src/main/java/com/delivery/routing/client/RoutingClient.java
+/Users/a/Documents/private/delivery/delivery.core.starters/clients/routing-client/src/main/java/com/delivery/routing/client/RoutingClientException.java
+/Users/a/Documents/private/delivery/delivery.core.starters/clients/routing-client/src/main/java/com/delivery/routing/client/RoutingClientFailure.java
+/Users/a/Documents/private/delivery/delivery.core.starters/clients/routing-client/src/main/java/com/delivery/routing/client/RoutingHttpExchange.java

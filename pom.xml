@@ -21,4 +21,25 @@
         <module>clients/identity-client</module>
         <module>clients/routing-client</module>
     </modules>
+
+    <build>
+        <extensions>
+            <extension>
+                <groupId>com.google.cloud.artifactregistry</groupId>
+                <artifactId>artifactregistry-maven-wagon</artifactId>
+                <version>2.2.1</version>
+            </extension>
+        </extensions>
+    </build>
+
+    <distributionManagement>
+        <snapshotRepository>
+            <id>delivery-maven</id>
+            <url>artifactregistry://asia-southeast1-maven.pkg.dev/lithe-paratext-506208-s5/delivery-maven</url>
+        </snapshotRepository>
+        <repository>
+            <id>delivery-maven</id>
+            <url>artifactregistry://asia-southeast1-maven.pkg.dev/lithe-paratext-506208-s5/delivery-maven</url>
+        </repository>
+    </distributionManagement>
 </project>
