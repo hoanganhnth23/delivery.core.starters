@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.delivery</groupId>
+    <artifactId>delivery-starters-parent</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>delivery-starters-parent</name>
+
+    <modules>
+        <module>platform/delivery-platform-bom</module>
+        <module>platform/delivery-build-parent</module>
+        <module>platform/kafka-starter</module>
+        <module>platform/event-test-support</module>
+        <module>platform/platform-http-blocking</module>
+        <module>observability-starter</module>
+        <module>runtime-platform-starter</module>
+        <module>auth-resource-server-starter</module>
+        <module>clients/identity-client</module>
+        <module>clients/routing-client</module>
+    </modules>
+</project>
