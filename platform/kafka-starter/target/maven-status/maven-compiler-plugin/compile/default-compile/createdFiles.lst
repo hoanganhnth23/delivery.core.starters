@@ -1,0 +1,5 @@
+com/delivery/platform/kafka/OutboxRelayBase.class
+com/delivery/platform/kafka/CommonKafkaConsumerConfig.class
+com/delivery/platform/kafka/CommonKafkaErrorHandler.class
+com/delivery/platform/kafka/CommonKafkaProducerConfig.class
+com/delivery/platform/kafka/TopicNames.class

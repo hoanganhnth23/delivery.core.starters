@@ -1,0 +1,7 @@
+/Users/a/Documents/private/delivery/backend_delivery/observability-starter/src/test/java/com/delivery/observability/CorrelationIdTest.java
+/Users/a/Documents/private/delivery/backend_delivery/observability-starter/src/test/java/com/delivery/observability/CorrelationPropagationTest.java
+/Users/a/Documents/private/delivery/backend_delivery/observability-starter/src/test/java/com/delivery/observability/KafkaObservationConfigurationTest.java
+/Users/a/Documents/private/delivery/backend_delivery/observability-starter/src/test/java/com/delivery/observability/OutboxTraceContextTest.java
+/Users/a/Documents/private/delivery/backend_delivery/observability-starter/src/test/java/com/delivery/observability/Phase8MetricsConfigurationTest.java
+/Users/a/Documents/private/delivery/backend_delivery/observability-starter/src/test/java/com/delivery/observability/Phase8MetricsTest.java
+/Users/a/Documents/private/delivery/backend_delivery/observability-starter/src/test/java/com/delivery/observability/Phase8RolloutPropertiesTest.java

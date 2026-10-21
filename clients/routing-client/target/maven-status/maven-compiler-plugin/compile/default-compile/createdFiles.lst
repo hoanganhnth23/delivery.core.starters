@@ -1,0 +1,6 @@
+com/delivery/routing/client/RoutingHttpExchange.class
+com/delivery/routing/client/RestClientRoutingHttpExchange.class
+com/delivery/routing/client/RoutingClientFailure.class
+com/delivery/routing/client/HttpRoutingClient.class
+com/delivery/routing/client/RoutingClient.class
+com/delivery/routing/client/RoutingClientException.class

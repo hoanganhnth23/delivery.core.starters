@@ -1,0 +1,4 @@
+/Users/a/Documents/private/delivery/backend_delivery/auth-resource-server-starter/src/main/java/com/delivery/auth/resourceserver/config/AuthResourceServerAutoConfiguration.java
+/Users/a/Documents/private/delivery/backend_delivery/auth-resource-server-starter/src/main/java/com/delivery/auth/resourceserver/security/AuthenticatedActor.java
+/Users/a/Documents/private/delivery/backend_delivery/auth-resource-server-starter/src/main/java/com/delivery/auth/resourceserver/security/AuthenticatedActorAuthenticationToken.java
+/Users/a/Documents/private/delivery/backend_delivery/auth-resource-server-starter/src/main/java/com/delivery/auth/resourceserver/security/DeliveryJwtAuthenticationConverter.java

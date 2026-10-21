@@ -1,0 +1,8 @@
+com/delivery/auth/resourceserver/config/AuthResourceServerAutoConfiguration$KidValidator.class
+com/delivery/auth/resourceserver/config/AuthResourceServerAutoConfiguration$AudienceValidator.class
+com/delivery/auth/resourceserver/config/AuthResourceServerAutoConfiguration$TokenTypeValidator.class
+com/delivery/auth/resourceserver/security/AuthenticatedActorAuthenticationToken.class
+com/delivery/auth/resourceserver/security/AuthenticatedActor.class
+com/delivery/auth/resourceserver/config/AuthResourceServerAutoConfiguration.class
+com/delivery/auth/resourceserver/security/DeliveryJwtAuthenticationConverter.class
+com/delivery/auth/resourceserver/config/AuthResourceServerAutoConfiguration$AlgorithmValidator.class

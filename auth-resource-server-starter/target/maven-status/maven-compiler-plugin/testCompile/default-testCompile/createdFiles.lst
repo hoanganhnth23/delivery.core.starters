@@ -1,0 +1,2 @@
+com/delivery/auth/resourceserver/config/AuthResourceServerAutoConfigurationTest.class
+com/delivery/auth/resourceserver/security/DeliveryJwtAuthenticationConverterTest.class

@@ -1,0 +1,9 @@
+com/delivery/platform/kafka/TestKafkaTemplate.class
+com/delivery/platform/kafka/OutboxRelayBaseTest$TestEvent.class
+com/delivery/platform/kafka/OutboxRelayBaseTest$TestRelay.class
+com/delivery/platform/kafka/CommonKafkaAutoConfigurationTest.class
+com/delivery/platform/kafka/OutboxRelayBaseTest.class
+com/delivery/platform/kafka/CommonKafkaConsumerConfigTest.class
+com/delivery/platform/kafka/TopicNamesTest.class
+com/delivery/platform/kafka/CommonKafkaErrorHandlerTest.class
+com/delivery/platform/kafka/CommonKafkaProducerConfigTest.class

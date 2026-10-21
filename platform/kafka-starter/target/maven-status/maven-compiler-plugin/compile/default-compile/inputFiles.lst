@@ -1,0 +1,5 @@
+/Users/a/Documents/private/delivery/backend_delivery/platform/kafka-starter/src/main/java/com/delivery/platform/kafka/CommonKafkaConsumerConfig.java
+/Users/a/Documents/private/delivery/backend_delivery/platform/kafka-starter/src/main/java/com/delivery/platform/kafka/CommonKafkaErrorHandler.java
+/Users/a/Documents/private/delivery/backend_delivery/platform/kafka-starter/src/main/java/com/delivery/platform/kafka/CommonKafkaProducerConfig.java
+/Users/a/Documents/private/delivery/backend_delivery/platform/kafka-starter/src/main/java/com/delivery/platform/kafka/OutboxRelayBase.java
+/Users/a/Documents/private/delivery/backend_delivery/platform/kafka-starter/src/main/java/com/delivery/platform/kafka/TopicNames.java

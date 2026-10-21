@@ -1,0 +1,5 @@
+/Users/a/Documents/private/delivery/backend_delivery/platform/event-test-support/src/main/java/com/delivery/eventtestsupport/EventFixtures.java
+/Users/a/Documents/private/delivery/backend_delivery/platform/event-test-support/src/main/java/com/delivery/eventtestsupport/EventSchemaValidator.java
+/Users/a/Documents/private/delivery/backend_delivery/platform/event-test-support/src/main/java/com/delivery/eventtestsupport/JsonRoundTripAssert.java
+/Users/a/Documents/private/delivery/backend_delivery/platform/event-test-support/src/main/java/com/delivery/eventtestsupport/KafkaTestSupport.java
+/Users/a/Documents/private/delivery/backend_delivery/platform/event-test-support/src/main/java/com/delivery/eventtestsupport/TestEvents.java
